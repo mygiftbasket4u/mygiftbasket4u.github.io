@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5510b0-7846-48e1-93ba-308aba997507" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/baskets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/food.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index1.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/personal.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/corporate.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/return.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baskets.html" afterPath="$PROJECT_DIR$/baskets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate.html" afterPath="$PROJECT_DIR$/corporate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/food.html" afterPath="$PROJECT_DIR$/food.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal.html" afterPath="$PROJECT_DIR$/personal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/return.html" afterPath="$PROJECT_DIR$/return.html" />
     </list>
     <ignored path="mygiftbasket4u.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5" vertical-offset="722" max-vertical-offset="3686">
-              <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+            <state vertical-scroll-proportion="-9.928572" vertical-offset="2876" max-vertical-offset="3686">
+              <caret line="166" column="146" selection-start-line="166" selection-start-column="146" selection-end-line="166" selection-end-column="146" />
               <folding />
             </state>
           </provider>
@@ -53,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="return.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="return.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/return.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.256014" vertical-offset="0" max-vertical-offset="3173">
-              <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+            <state vertical-scroll-proportion="-47.5" vertical-offset="1444" max-vertical-offset="3192">
+              <caret line="146" column="142" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="142" />
               <folding />
             </state>
           </provider>
@@ -66,18 +64,18 @@
       <file leaf-file-name="corporate.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/corporate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5" vertical-offset="722" max-vertical-offset="3135">
-              <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+            <state vertical-scroll-proportion="-6.535714" vertical-offset="2553" max-vertical-offset="3135">
+              <caret line="144" column="146" selection-start-line="144" selection-start-column="146" selection-end-line="144" selection-end-column="146" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baskets.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="baskets.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baskets.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="19.0" vertical-offset="1520" max-vertical-offset="3173">
-              <caret line="52" column="71" selection-start-line="52" selection-start-column="71" selection-end-line="52" selection-end-column="71" />
+            <state vertical-scroll-proportion="0.4450172" vertical-offset="2515" max-vertical-offset="3173">
+              <caret line="146" column="142" selection-start-line="146" selection-start-column="142" selection-end-line="146" selection-end-column="142" />
               <folding />
             </state>
           </provider>
@@ -86,8 +84,8 @@
       <file leaf-file-name="personal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.821428" vertical-offset="741" max-vertical-offset="3154">
-              <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+            <state vertical-scroll-proportion="-6.535714" vertical-offset="2572" max-vertical-offset="3154">
+              <caret line="145" column="146" selection-start-line="145" selection-start-column="146" selection-end-line="145" selection-end-column="146" />
               <folding />
             </state>
           </provider>
@@ -96,8 +94,8 @@
       <file leaf-file-name="food.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/food.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.428571" vertical-offset="836" max-vertical-offset="3249">
-              <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+            <state vertical-scroll-proportion="-11.285714" vertical-offset="2534" max-vertical-offset="3249">
+              <caret line="150" column="146" selection-start-line="150" selection-start-column="146" selection-end-line="150" selection-end-column="146" />
               <folding />
             </state>
           </provider>
@@ -113,12 +111,12 @@
       <list>
         <option value="$PROJECT_DIR$/personl.html" />
         <option value="$PROJECT_DIR$/blog.html" />
-        <option value="$PROJECT_DIR$/baskets.html" />
-        <option value="$PROJECT_DIR$/corporate.html" />
-        <option value="$PROJECT_DIR$/food.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/personal.html" />
         <option value="$PROJECT_DIR$/return.html" />
+        <option value="$PROJECT_DIR$/personal.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/food.html" />
+        <option value="$PROJECT_DIR$/corporate.html" />
+        <option value="$PROJECT_DIR$/baskets.html" />
       </list>
     </option>
   </component>
@@ -250,7 +248,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2777778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2777778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -326,50 +324,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baskets.html">
+    <entry file="file://$PROJECT_DIR$/return.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="19.0" vertical-offset="1520" max-vertical-offset="3173">
-          <caret line="52" column="71" selection-start-line="52" selection-start-column="71" selection-end-line="52" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corporate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5" vertical-offset="722" max-vertical-offset="3135">
-          <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/food.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.428571" vertical-offset="836" max-vertical-offset="3249">
-          <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5" vertical-offset="722" max-vertical-offset="3686">
-          <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+        <state vertical-scroll-proportion="-47.5" vertical-offset="1444" max-vertical-offset="3192">
+          <caret line="146" column="142" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="142" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.821428" vertical-offset="741" max-vertical-offset="3154">
-          <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+        <state vertical-scroll-proportion="-6.535714" vertical-offset="2572" max-vertical-offset="3154">
+          <caret line="145" column="146" selection-start-line="145" selection-start-column="146" selection-end-line="145" selection-end-column="146" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/return.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.256014" vertical-offset="0" max-vertical-offset="3173">
-          <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.928572" vertical-offset="2876" max-vertical-offset="3686">
+          <caret line="166" column="146" selection-start-line="166" selection-start-column="146" selection-end-line="166" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.285714" vertical-offset="2534" max-vertical-offset="3249">
+          <caret line="150" column="146" selection-start-line="150" selection-start-column="146" selection-end-line="150" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.535714" vertical-offset="2553" max-vertical-offset="3135">
+          <caret line="144" column="146" selection-start-line="144" selection-start-column="146" selection-end-line="144" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baskets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4450172" vertical-offset="2515" max-vertical-offset="3173">
+          <caret line="146" column="142" selection-start-line="146" selection-start-column="142" selection-end-line="146" selection-end-column="142" />
           <folding />
         </state>
       </provider>
