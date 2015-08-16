@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5510b0-7846-48e1-93ba-308aba997507" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/bg.jpg" afterPath="$PROJECT_DIR$/img/Modelbg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg.jpg" afterPath="$PROJECT_DIR$/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/carousal1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/carousal2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/carousal3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mygiftbasket4u.github.io.iws" />
@@ -28,21 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.928572" vertical-offset="2876" max-vertical-offset="3686">
-              <caret line="166" column="146" selection-start-line="166" selection-start-column="146" selection-end-line="166" selection-end-column="146" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="return.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/return.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-47.5" vertical-offset="1444" max-vertical-offset="3192">
-              <caret line="146" column="142" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="142" />
+            <state vertical-scroll-proportion="0.6202749" vertical-offset="1615" max-vertical-offset="3686">
+              <caret line="104" column="91" selection-start-line="104" selection-start-column="91" selection-end-line="104" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -58,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baskets.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="baskets.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baskets.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.766323" vertical-offset="0" max-vertical-offset="3173">
+            <state vertical-scroll-proportion="-99.07143" vertical-offset="0" max-vertical-offset="3173">
               <caret line="146" column="142" selection-start-line="146" selection-start-column="142" selection-end-line="146" selection-end-column="142" />
               <folding />
             </state>
@@ -102,6 +94,13 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="carousal1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/carousal1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="personal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personal.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,11 +133,11 @@
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/return.html" />
         <option value="$PROJECT_DIR$/personal.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/food.html" />
         <option value="$PROJECT_DIR$/corporate.html" />
         <option value="$PROJECT_DIR$/baskets.html" />
         <option value="$PROJECT_DIR$/css/business-casual.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -146,8 +145,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="23" />
+    <option name="x" value="47" />
+    <option name="y" value="98" />
     <option name="width" value="1083" />
     <option name="height" value="728" />
   </component>
@@ -293,7 +292,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="23" width="1083" height="728" extended-state="6" />
+    <frame x="47" y="98" width="1083" height="728" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -393,30 +392,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.928572" vertical-offset="2876" max-vertical-offset="3686">
-          <caret line="166" column="146" selection-start-line="166" selection-start-column="146" selection-end-line="166" selection-end-column="146" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/food.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.285714" vertical-offset="2534" max-vertical-offset="3249">
           <caret line="150" column="146" selection-start-line="150" selection-start-column="146" selection-end-line="150" selection-end-column="146" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Modelbg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
@@ -445,8 +426,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baskets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.766323" vertical-offset="0" max-vertical-offset="3173">
+        <state vertical-scroll-proportion="-99.07143" vertical-offset="0" max-vertical-offset="3173">
           <caret line="146" column="142" selection-start-line="146" selection-start-column="142" selection-end-line="146" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Modelbg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/carousal1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6202749" vertical-offset="1615" max-vertical-offset="3686">
+          <caret line="104" column="91" selection-start-line="104" selection-start-column="91" selection-end-line="104" selection-end-column="91" />
           <folding />
         </state>
       </provider>
